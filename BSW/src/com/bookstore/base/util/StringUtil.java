@@ -7,4 +7,8 @@ public class StringUtil {
 		return false;
 	}
 
+	public void demo()
+	{
+		
+	}
 }

@@ -67,5 +67,11 @@ public class UserDao extends JpaDAO<Users> implements GenericDAO<Users> {
 		return false;
 		
 	}
+	
+	public void test()
+	{
+		
+	}
+	
 
 }
